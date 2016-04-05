@@ -1,6 +1,6 @@
 # Site settings
 title: Mantis | 动如脱兔
-description: "让Coding更简单."
+description: "Make coding easier."
 url: ""
 author:
   name: "SpringLo"
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
 
 # Custom variables
-version: "1.1.0"
+version: "0.1.2"
 
 # Options
 custom_header: false
