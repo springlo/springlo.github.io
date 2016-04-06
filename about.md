@@ -4,5 +4,4 @@ title: About SpringLo
 ---
 ## About
 
-- Developer
-- Dad
+### iOS Engineer
