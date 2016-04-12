@@ -126,15 +126,15 @@ print(confirmPath(NSURL(fileURLWithPath: "/Applications/MyApp.app")))
 定义一个数组:
 {% highlight swift  linenos%}
     [.Headline("Global"),
-        .Item("Dashboard"),
-        .Item("Popular"),
-        .Seperator,
-        .Headline("Me"),
-        .Item("Pictures"),
-         .Seperator,
-         .Headline("Folders"),
-         .Item("Best Pics 2013"),
-        .Item("Wedding")
+     .Item("Dashboard"),
+     .Item("Popular"),
+     .Seperator,
+     .Headline("Me"),
+     .Item("Pictures"),
+     .Seperator,
+     .Headline("Folders"),
+     .Item("Best Pics 2013"),
+     .Item("Wedding")
     ]
     
 {% endhighlight %}
